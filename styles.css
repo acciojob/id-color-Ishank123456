@@ -4,9 +4,11 @@
 }
 #red{
 	background-color:red;
-	border:1px  black;
+	border-width:1px;
+	border-color:black;
 }
 #green{
 	background-color:green;
-	border:1px yellow;
+	border width:1px;
+	border-color:yellow;
 }
